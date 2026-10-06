@@ -15,9 +15,7 @@ public class BillCalculator {
 
         System.out.print("Enter how match electriCity unit you used : ");
         int electricityUnit=sc.nextInt();
-
         sc.nextLine();
-
         System.out.print("Is there is any plenty Yes or No : ");
         String penaltyChoice =sc.nextLine();
 

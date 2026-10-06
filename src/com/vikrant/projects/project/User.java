@@ -1,7 +1,6 @@
 package com.vikrant.projects.project;
 
 
-//In this project we build stanza living payment system if
 public class User {
  private String name;
  private int monthalyRent;
